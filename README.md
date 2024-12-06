@@ -6,7 +6,7 @@
 This project provides a RESTful API built using JavaScript. It allows users to interact with the API endpoints for various functionalities.
 
 ## Installation
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine
 2. Run `npm install` to install dependencies.
 3. Configure environment variables (if needed).
 
